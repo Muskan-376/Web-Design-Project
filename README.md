@@ -25,7 +25,7 @@ It is built using HTML, CSS, and JavaScript, and designed to be clean, responsiv
 
 🖼️ Gallery Page — Campus photos
 
-📞 Contact Page — Communication details and Google Map embed
+📞 Contact Page — Communication details 
 
 📸 Responsive Carousel — Auto-fading image slider using JS
 
